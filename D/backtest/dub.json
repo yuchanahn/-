@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"201913038"
+	],
+	"copyright": "Copyright © 2024, 201913038",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "backtest"
+}
